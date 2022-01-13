@@ -6,7 +6,7 @@ export const Body = () => {
 
     return (
         <>
-<div class="loader"></div>
+<div className="loader"></div>
             <div className='body-h1'>
                 <div>
                     <div className='h1 '>
