@@ -1,0 +1,69 @@
+{
+    "message": [
+        {
+            "name": "prooduct",
+            "children": [
+                {
+                    "name": "Account ing and Financials",
+                    "children": [
+                        {
+                            "name": "samsung S20 FE",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Planning",
+                    "children": []
+                },
+                {
+                    "name": "SageIntacct Platform",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Industries",
+            "children": []
+        },
+        {
+            "name": "Partners",
+            "children": []
+        },
+        {
+            "name": "Resources",
+            "children": []
+        },
+        {
+            "name": "Company",
+            "children": []
+        }
+    ],
+    "image": [
+        {
+            "img": "https://www.sageintacct.com/sites/default/files/resource-icons/datasheet.jpg",
+            "title": "  Datasheet ",
+            "desc": " Sage Intacct – Connected Solutions for Today’s Digital World "
+        },
+        {
+            "img": "https://www.sageintacct.com/sites/default/files/resource-icons/product-demo.jpg",
+            "title": "Product demo ",
+            "desc": "   Learn about Our Natively Connected Budgeting and Planning "
+        },
+        {
+            "img": "https://www.sageintacct.com/sites/default/files/resource-icons/ebook.jpg",
+            "title": " eBook",
+            "desc": " See What’s Top of Mind for 1,600+ Finance Leaders like You"
+        },
+        {
+            "img": "https://www.sageintacct.com/sites/default/files/resource-icons/webinar.jpg",
+            "title": " Webinar ",
+            "desc": "      Register for an Upcoming Live Webinar"
+        },
+        {
+            "img": "https://www.sageintacct.com/sites/default/files/resource-icons/datasheet.jpg",
+            "title": " Datasheet",
+            "desc": "  Transform your Decision Making with Native, Predictive Analytics"
+        }
+    ]
+}
