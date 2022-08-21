@@ -1,0 +1,32 @@
+.footer{
+display: grid;
+grid-template-columns: 30% 30% 30%;
+justify-content: space-between;
+align-items: center;
+    background-color: rgb(9, 23, 71);
+    border-radius: 0px;
+    padding: 10px 0px;
+    min-height: 118px;
+    height: max-content;
+    flex-shrink: 0;
+    width: calc(100% - 0px);
+}
+.footer-item{
+display: flex;
+justify-content: center;
+align-items: center;
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    line-height: 1.4;
+    border-radius: 0px;
+}
+button{
+    border-radius: 0.5rem;
+    font-size: 24px;
+    font-weight: 600;
+    background: yellow;
+    border: none;
+    padding: 0.5rem 1rem;
+}
